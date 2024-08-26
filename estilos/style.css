@@ -28,9 +28,9 @@ main {
 }
 
 section#login {
-    width: 500px;
-    height: 750px;
-    border-radius: 5px;
+    width: 250px;
+    height: 500px;
+    border-radius: 10px;
     overflow: hidden;
 
     position: absolute;
