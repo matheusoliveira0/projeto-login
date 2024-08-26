@@ -30,7 +30,7 @@ main {
 section#login {
     width: 500px;
     height: 750px;
-    border-radius: 20px;
+    border-radius: 5px;
     overflow: hidden;
 
     position: absolute;
